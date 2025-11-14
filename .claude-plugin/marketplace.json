@@ -4,8 +4,12 @@
   "plugins": [
     {
       "name": "spellbook",
-      "repository": "https://github.com/cassiascheffer/spellbook",
-      "ref": "main"
+      "source": {
+        "source": "github",
+        "repo": "cassiascheffer/spellbook",
+        "ref": "main"
+      },
+      "description": "Personal skills library with Jujutsu workflows"
     }
   ]
 }
