@@ -20,7 +20,7 @@
       "source": {
         "source": "github",
         "repo": "cassiascheffer/spellbook-learn-jj",
-        "ref": "v1.0.0"
+        "ref": "v1.0.1"
       },
       "description": "Interactive hands-on tutorial for learning Jujutsu (jj) version control system"
     }
