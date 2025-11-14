@@ -1,0 +1,11 @@
+{
+  "name": "spellbook-marketplace",
+  "description": "Personal skills library with Jujutsu workflows - forked from superpowers",
+  "plugins": [
+    {
+      "name": "spellbook",
+      "repository": "https://github.com/cassiascheffer/spellbook",
+      "ref": "main"
+    }
+  ]
+}
