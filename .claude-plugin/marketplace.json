@@ -1,5 +1,9 @@
 {
   "name": "spellbook-marketplace",
+  "owner": {
+    "name": "Cassia Scheffer",
+    "email": "cassia@enumerator.dev"
+  },
   "description": "Personal skills library with Jujutsu workflows - forked from superpowers",
   "plugins": [
     {
