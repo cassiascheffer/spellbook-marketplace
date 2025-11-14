@@ -14,6 +14,15 @@
         "ref": "main"
       },
       "description": "Personal skills library with Jujutsu workflows"
+    },
+    {
+      "name": "jj-tutorial",
+      "source": {
+        "source": "github",
+        "repo": "cassiascheffer/spellbook-learn-jj",
+        "ref": "v1.0.0"
+      },
+      "description": "Interactive hands-on tutorial for learning Jujutsu (jj) version control system"
     }
   ]
 }
